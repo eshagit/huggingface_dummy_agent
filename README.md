@@ -1,6 +1,13 @@
-Demo:https://eshamohideen-first-agent-template.hf.space/
-Usgae:Get time in India timezone
-Output: current time based on timezone
+## Demo: 
+[Smolagents to get data based on timezone](https://eshamohideen-first-agent-template.hf.space/)
+
+## Usage:
+
+
+> <ins>Input</ins>: Get time in India timezone
+
+> <ins>Output</ins>: current time based on timezone
+
 
 ---
 title: First Agent Template
