@@ -1,3 +1,7 @@
+Demo:https://eshamohideen-first-agent-template.hf.space/
+Usgae:Get time in India timezone
+Output: current time based on timezone
+
 ---
 title: First Agent Template
 emoji: ⚡
